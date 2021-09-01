@@ -1,2 +1,7 @@
-# aschroeder-readme
-Just an about me
+# Ashley Schroeder README
+
+## Personal
+
+![Image of Family]
+(family.png)
+
