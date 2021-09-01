@@ -3,5 +3,5 @@
 ## Personal
 
 ![Image of Family]
-(family.png)
+(https://raw.githubusercontent.com/aschroeder2/aschroeder-readme/main/family.png)
 
