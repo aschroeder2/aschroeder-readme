@@ -1,4 +1,4 @@
-# Ashley Schroeder README
+# A Bit About Me
 
 ## Personal
 
@@ -6,7 +6,6 @@
 
 ### Family
 * My immediate family consists of my husband Zach and our two dogs Monti and Sady
-* Before too long I will extend our family with the addition of a hedgehog (life long dream!)
 * I have extended family scattered all over the USA, and I love to take long weekends to visit them
 
 ### Hobbies
@@ -18,46 +17,43 @@
 * Avid reader - especially classics and sifi/fantasy
 * Travel
   * My next really big trip will be Kilimanjaro 
-  * In the mean time I want to see Redwoods National Park, Yellowstone, Iceland, Norway, and England
+  * In the mean time I want to see Redwoods National Park, Yellowstone, East Coast USA, Iceland, Norway, and England
 
 ### Personal aspirations
 * Learn to play an instrument proficiently (I've dabbled in quite a few, but never gotten really good)
 * Travel to Antarctica - my last continent! 
-  * Also has some family significance, led to my family's tie to New Zealand
-* Become a snowbird - We want a house in Wisconsin and somewhere warm for the winter, probably Florida 
-
+* Become a snowbird - We want a house in Wisconsin and somewhere by the ocean for winter, probably Florida 
 
 
 ## Professional
 
-### Professional Values/Beliefs
-* Close collaboration with teams
-* Don't design in a silo
+### Things I value and believe
 * Bring the fun
-* Delight in feedback - giving and receiving
-* Be independent
-  * if there is something I need, I want to learn to do it myself, not rely on other people or teams to do things for me
-* Answer my own questions
-* Share knowledge - avoid being a single point of failure
-* Ambiguity is an opportunity not a blocker
-* Learn everything about the company
+* Close collaboration with teammates
+* Delight in feedback
+  * Giving and receiving
+  * No matter which end you are on, its a growth opportunity
 * Always know why you do something
+* Independence
+  * Avoid reliance on others to do things
+  * Answer your own questions - sometimes this gets me in trouble
+* Share knowledge - no single points of failure
+* Ambiguity is an opportunity not a blocker
+* Know everything about your company
+* Standards and style guides - love things that are consistent and pretty
 
 ### Learning Style
-* Doing - I want to dive into practical tasks
+* Doing - I want to dive into practical tasks and exhaust all my resources to answer questions before asking someone
+* Peer conversations and/or feedback - I learn from all the smart people around me
 * Teaching - I have a love hate relationship with running training sessions (formal and informal), but I always learn a lot!
-* Things I am not very good about...
-  * Online training - I use it to get a quick baseline, but longstanding classes don't work very well for me without challenges to work on
-  * Professional reading
-  * In person group sessions, I'm shy, I don't like to ask questions in a group session
 
 ### Favorite Types of Projects
 * Abstract, ambiguous asks
-* Process design - I know, people over process, but man I love running a good process
 * Improvement initiatives - I love the analysis
+* Process design - I know, people over process, but man I love figuring out and running a good process
 
 ### Professional Aspirations
 * I am historically bad at setting goals...
 * Master Bullhorn's application ecosystem
-* 
+* Contribute to an open source project
 
